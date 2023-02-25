@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 3rem;
+}
+body {
+  background-color: #67e8f9;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-style: italic;
+}
+.likebtn {
+  border-radius: 0.5rem;
+  font-size: 3rem;
+}
