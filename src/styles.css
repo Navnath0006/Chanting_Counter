@@ -12,3 +12,8 @@ body {
   border-radius: 0.5rem;
   font-size: 3rem;
 }
+.bottom {
+  padding-top: 18rem;
+  text-align: bottom;
+  font-size: 1.5rem;
+}
